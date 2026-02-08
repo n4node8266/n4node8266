@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi, I’m N4 — a developer focused on building games, web apps, and intelligent systems.<br><br>I work on creating scalable, logic-driven, and interactive solutions, from game mechanics to full-stack applications and automation.<br><br>What I build & work with:<br><br>Game development <br><br>Web development <br><br>App development <br><br>AI integration <br><br>Discord integration<br><br>3D & open-world environments<br><br>Backend & system logic<br><br>I enjoy building unique systems, experimenting with new technologies, and turning complex ideas into working products.
+Hi, I’m N4 — a developer focused on building games, web apps, and intelligent systems.<br><br>I work on creating scalable, logic-driven, and interactive solutions, from game mechanics to full-stack applications and automation.<br>What I build & work with:<br>Game development <br>Web development <br>App development<br>AI integration <br>Discord integration<br>3D & open-world environments<br>Backend & system logic<br>I enjoy building unique systems, experimenting with new technologies, and turning complex ideas into working products.
 
 
 ## 🌐 Socials:
